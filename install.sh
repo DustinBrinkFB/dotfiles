@@ -1,7 +1,7 @@
 #!/bin/sh
 set -e
 
-GITHUB_USERNAME="DustinBrink"
+GITHUB_USERNAME="DustinBrinkFB"
 
 echo "[CONFIG] GitHub Email and Username"
 git config --global user.email "dustinbrink@fb.com"
